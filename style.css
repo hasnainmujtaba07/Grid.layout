@@ -10,7 +10,7 @@
 
 .responsive{
     max-width: 1300px;
-    min-width: none;
+    min-width: 300px;
     margin: 0 auto;
 }
 
